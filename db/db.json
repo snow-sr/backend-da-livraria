@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {
+      "name": "aaaa",
+      "id": 4
+    }
+  ],
+  "publishers": [
+    {
+      "name": "Teste",
+      "site": "teste.com.br",
+      "id": 1
+    }
+  ],
+  "authors": [
+    {
+      "name": "teste",
+      "id": 1
+    },
+    {
+      "name": "test232",
+      "id": 2
+    }
+  ],
+  "books": []
+}
